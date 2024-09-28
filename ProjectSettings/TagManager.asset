@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Crystal
+  - Key
+  - Trap
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - Items
+  - Observer
+  - Traps
+  - Operator
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Walls
+    uniqueID: 2858397995
+    locked: 0
+  - name: Items
+    uniqueID: 4162890137
+    locked: 0
+  - name: Braver
+    uniqueID: 958285277
+    locked: 0
+  - name: UI
+    uniqueID: 2036573571
+    locked: 0
+  - name: Animation
+    uniqueID: 2589977349
+    locked: 0
